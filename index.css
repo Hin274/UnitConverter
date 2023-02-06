@@ -43,6 +43,7 @@ body {
   font-size: 30px;
   width: 15%;
   font-weight: 800;
+  font-size: 3rem;
 }
 
 .btn {
@@ -53,7 +54,15 @@ body {
   width: 15%;
   border: none;
   font-weight: 500;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 300ms;
 }
+
+.btn:hover{
+    background-color: #DDD6FE;
+}
+
 .bg-primary-colour {
   background-color: #6943ff;
 }
