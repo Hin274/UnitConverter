@@ -46,6 +46,10 @@ body {
   font-size: 3rem;
 }
 
+.input::placeholder{
+  color: #f4f4f4;
+}
+
 .btn {
   color: #3d3d3d;
   background-color: #FFFFFF;
